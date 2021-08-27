@@ -230,6 +230,7 @@ footer {
             display: none;
       }
       .logo2 {
+            width: 100%;
             justify-content: center;
       }
       .logo2 span {
