@@ -58,6 +58,10 @@ header {
       font-size: large;
       transition: 0.5s ease;
 }
+.header-menu ul li a {
+      text-decoration: none;
+      color: black;
+}
 .header-menu ul li:hover {
       background-color: rgba(0, 0, 0, 0.5);
       color: white;
