@@ -221,7 +221,7 @@ footer {
             row-gap: 15px;
       }
 }
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 420px) {
       .responsive {
             grid-template-columns: 100%;
             row-gap: 10px;
@@ -232,6 +232,9 @@ footer {
       .logo2 {
             width: 100%;
             justify-content: center;
+      }
+      .logo2 img {
+            width: 120px;
       }
       .logo2 span {
             display: none;
