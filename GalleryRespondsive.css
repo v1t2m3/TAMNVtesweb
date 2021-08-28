@@ -64,9 +64,12 @@ header {
 }
 .header-menu ul li:hover {
       background-color: rgba(0, 0, 0, 0.5);
-      color: white;
       border-radius: 2px;
+
       cursor: pointer;
+}
+.header-menu ul li:hover a {
+      color: white;
 }
 section {
       display: flex;
